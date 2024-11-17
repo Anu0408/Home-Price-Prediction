@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/2bb838cafb7f461c953f79533b38d26d/artifacts
+end_time: 1726008818268
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 2bb838cafb7f461c953f79533b38d26d
+run_name: secretive-grub-404
+run_uuid: 2bb838cafb7f461c953f79533b38d26d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726008814432
+status: 3
+tags: []
+user_id: anucv

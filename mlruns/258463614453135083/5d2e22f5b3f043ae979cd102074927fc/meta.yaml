@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/5d2e22f5b3f043ae979cd102074927fc/artifacts
+end_time: 1726007543906
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 5d2e22f5b3f043ae979cd102074927fc
+run_name: rogue-conch-780
+run_uuid: 5d2e22f5b3f043ae979cd102074927fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726007541351
+status: 3
+tags: []
+user_id: anucv

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/de55d2afc66b44c682f5aa71ede1542e/artifacts
+end_time: 1725922977954
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: de55d2afc66b44c682f5aa71ede1542e
+run_name: charming-goat-659
+run_uuid: de55d2afc66b44c682f5aa71ede1542e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725922975802
+status: 3
+tags: []
+user_id: anucv

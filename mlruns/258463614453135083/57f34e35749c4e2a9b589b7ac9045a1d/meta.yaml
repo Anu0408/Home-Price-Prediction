@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/57f34e35749c4e2a9b589b7ac9045a1d/artifacts
+end_time: 1725914838728
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 57f34e35749c4e2a9b589b7ac9045a1d
+run_name: powerful-grub-364
+run_uuid: 57f34e35749c4e2a9b589b7ac9045a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725914836301
+status: 3
+tags: []
+user_id: anucv

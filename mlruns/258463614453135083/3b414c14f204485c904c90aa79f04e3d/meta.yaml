@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/3b414c14f204485c904c90aa79f04e3d/artifacts
+end_time: 1725922975604
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 3b414c14f204485c904c90aa79f04e3d
+run_name: luminous-crow-722
+run_uuid: 3b414c14f204485c904c90aa79f04e3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725922973384
+status: 3
+tags: []
+user_id: anucv

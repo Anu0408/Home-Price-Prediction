@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/6c91271aec0245388ef636a55c0b5ebd/artifacts
+end_time: 1725922609801
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 6c91271aec0245388ef636a55c0b5ebd
+run_name: burly-seal-828
+run_uuid: 6c91271aec0245388ef636a55c0b5ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725922606115
+status: 3
+tags: []
+user_id: anucv

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/99e6b8ceac614a6d861caf8cc846db0e/artifacts
+end_time: 1725914859853
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 99e6b8ceac614a6d861caf8cc846db0e
+run_name: indecisive-zebra-394
+run_uuid: 99e6b8ceac614a6d861caf8cc846db0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725914858160
+status: 3
+tags: []
+user_id: anucv

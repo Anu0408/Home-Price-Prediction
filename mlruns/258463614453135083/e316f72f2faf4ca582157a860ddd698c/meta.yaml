@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/e316f72f2faf4ca582157a860ddd698c/artifacts
+end_time: 1725923228154
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: e316f72f2faf4ca582157a860ddd698c
+run_name: industrious-kit-64
+run_uuid: e316f72f2faf4ca582157a860ddd698c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725923226070
+status: 3
+tags: []
+user_id: anucv

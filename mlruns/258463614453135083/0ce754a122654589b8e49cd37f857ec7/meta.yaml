@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/0ce754a122654589b8e49cd37f857ec7/artifacts
+end_time: 1725923224185
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 0ce754a122654589b8e49cd37f857ec7
+run_name: dazzling-foal-467
+run_uuid: 0ce754a122654589b8e49cd37f857ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725923221089
+status: 3
+tags: []
+user_id: anucv

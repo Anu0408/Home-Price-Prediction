@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/ba6e5f96b64947539882cdb2f7661915/artifacts
+end_time: 1726080801901
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: ba6e5f96b64947539882cdb2f7661915
+run_name: mercurial-boar-581
+run_uuid: ba6e5f96b64947539882cdb2f7661915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726080799260
+status: 3
+tags: []
+user_id: anucv

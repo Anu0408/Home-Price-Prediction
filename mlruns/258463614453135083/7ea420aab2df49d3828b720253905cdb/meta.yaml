@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/7ea420aab2df49d3828b720253905cdb/artifacts
+end_time: 1725914425440
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 7ea420aab2df49d3828b720253905cdb
+run_name: loud-crane-665
+run_uuid: 7ea420aab2df49d3828b720253905cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725914423758
+status: 3
+tags: []
+user_id: anucv

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/56628b3531f14913ba9d252edd2f2116/artifacts
+end_time: 1726007247071
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 56628b3531f14913ba9d252edd2f2116
+run_name: nebulous-sheep-254
+run_uuid: 56628b3531f14913ba9d252edd2f2116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726007244776
+status: 3
+tags: []
+user_id: anucv

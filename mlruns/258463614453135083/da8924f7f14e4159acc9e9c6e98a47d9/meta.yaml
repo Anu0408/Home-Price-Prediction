@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/da8924f7f14e4159acc9e9c6e98a47d9/artifacts
+end_time: 1726008843786
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: da8924f7f14e4159acc9e9c6e98a47d9
+run_name: learned-cow-112
+run_uuid: da8924f7f14e4159acc9e9c6e98a47d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726008841042
+status: 3
+tags: []
+user_id: anucv

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/38c42add08ca41779c5ad6f8d7b3d68b/artifacts
+end_time: 1726009523854
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 38c42add08ca41779c5ad6f8d7b3d68b
+run_name: stately-kite-187
+run_uuid: 38c42add08ca41779c5ad6f8d7b3d68b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726009521024
+status: 3
+tags: []
+user_id: anucv

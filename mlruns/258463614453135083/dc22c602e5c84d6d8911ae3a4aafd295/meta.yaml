@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/dc22c602e5c84d6d8911ae3a4aafd295/artifacts
+end_time: 1726009359613
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: dc22c602e5c84d6d8911ae3a4aafd295
+run_name: bemused-deer-16
+run_uuid: dc22c602e5c84d6d8911ae3a4aafd295
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726009357027
+status: 3
+tags: []
+user_id: anucv

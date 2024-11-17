@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/67aea8894cae40f8bd9327aafa6d7fd2/artifacts
+end_time: 1726009526725
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 67aea8894cae40f8bd9327aafa6d7fd2
+run_name: exultant-sheep-732
+run_uuid: 67aea8894cae40f8bd9327aafa6d7fd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726009524105
+status: 3
+tags: []
+user_id: anucv

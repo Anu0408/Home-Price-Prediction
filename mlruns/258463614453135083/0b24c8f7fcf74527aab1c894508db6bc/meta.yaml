@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/0b24c8f7fcf74527aab1c894508db6bc/artifacts
+end_time: 1726007042905
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 0b24c8f7fcf74527aab1c894508db6bc
+run_name: aged-dove-277
+run_uuid: 0b24c8f7fcf74527aab1c894508db6bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726007039796
+status: 3
+tags: []
+user_id: anucv

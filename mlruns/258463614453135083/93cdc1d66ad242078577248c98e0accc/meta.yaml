@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/93cdc1d66ad242078577248c98e0accc/artifacts
+end_time: 1726009356787
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 93cdc1d66ad242078577248c98e0accc
+run_name: bald-rook-383
+run_uuid: 93cdc1d66ad242078577248c98e0accc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726009353970
+status: 3
+tags: []
+user_id: anucv

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/92ad67e661e5419a8f2386b31af892cc/artifacts
+end_time: 1725917101837
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 92ad67e661e5419a8f2386b31af892cc
+run_name: kindly-lamb-600
+run_uuid: 92ad67e661e5419a8f2386b31af892cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725917098768
+status: 3
+tags: []
+user_id: anucv

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/514c61eed1414d1a86bc973d7a8fc7d2/artifacts
+end_time: 1726080891182
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 514c61eed1414d1a86bc973d7a8fc7d2
+run_name: able-asp-253
+run_uuid: 514c61eed1414d1a86bc973d7a8fc7d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726080888862
+status: 3
+tags: []
+user_id: anucv

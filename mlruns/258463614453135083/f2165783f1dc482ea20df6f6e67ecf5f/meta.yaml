@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/f2165783f1dc482ea20df6f6e67ecf5f/artifacts
+end_time: 1725923059471
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: f2165783f1dc482ea20df6f6e67ecf5f
+run_name: dazzling-pug-703
+run_uuid: f2165783f1dc482ea20df6f6e67ecf5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725923057348
+status: 3
+tags: []
+user_id: anucv

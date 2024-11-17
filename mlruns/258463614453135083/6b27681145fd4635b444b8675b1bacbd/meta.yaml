@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/6b27681145fd4635b444b8675b1bacbd/artifacts
+end_time: 1725914920389
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 6b27681145fd4635b444b8675b1bacbd
+run_name: mercurial-cow-33
+run_uuid: 6b27681145fd4635b444b8675b1bacbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725914918641
+status: 3
+tags: []
+user_id: anucv

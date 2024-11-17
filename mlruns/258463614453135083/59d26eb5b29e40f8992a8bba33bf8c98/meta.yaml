@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/59d26eb5b29e40f8992a8bba33bf8c98/artifacts
+end_time: 1726009274992
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 59d26eb5b29e40f8992a8bba33bf8c98
+run_name: sincere-bug-752
+run_uuid: 59d26eb5b29e40f8992a8bba33bf8c98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726009272411
+status: 3
+tags: []
+user_id: anucv

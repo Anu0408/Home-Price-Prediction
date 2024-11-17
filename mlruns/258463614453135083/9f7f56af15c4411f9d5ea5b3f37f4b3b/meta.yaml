@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/9f7f56af15c4411f9d5ea5b3f37f4b3b/artifacts
+end_time: 1725923032308
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 9f7f56af15c4411f9d5ea5b3f37f4b3b
+run_name: calm-gull-691
+run_uuid: 9f7f56af15c4411f9d5ea5b3f37f4b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725923029254
+status: 3
+tags: []
+user_id: anucv

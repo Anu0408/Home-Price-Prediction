@@ -1,0 +1,196 @@
+index,sub_area,n_bhk,surface,price,company_name,township,club_house,school,hospital,mall,park,pool,gym
+1,bavdhan,1.0,492.0,39.0,shapoorji paloonji,vanaha ,yes,yes,yes,yes,yes,yes,yes
+2,bavdhan,2.0,774.0,65.0,shapoorji paloonji,vanaha ,yes,yes,yes,yes,yes,yes,yes
+3,bavdhan,3.0,889.0,74.0,shapoorji paloonji,vanaha ,yes,yes,yes,yes,yes,yes,yes
+4,bavdhan,3.0,1018.0,89.0,shapoorji paloonji,vanaha ,yes,yes,yes,yes,yes,yes,yes
+5,mahalunge,2.0,743.0,74.0,godrej properties,godrej hills retreat,yes,yes,yes,yes,yes,yes,yes
+6,mahalunge,3.0,975.0,95.0,godrej properties,godrej hills retreat,yes,yes,yes,yes,yes,yes,yes
+7,balewadi,2.0,894.5,75.0,anp corp,anp universe,yes,no,no,no,yes,yes,yes
+8,balewadi,3.0,1174.5,100.0,anp corp,anp universe,yes,no,no,no,yes,yes,yes
+9,ravet,2.0,905.0,65.0,urban space creator,urban skyline,yes,no,no,no,yes,yes,yes
+10,ravet,3.0,1125.0,88.0,urban space creator,urban skyline,yes,no,no,no,yes,yes,yes
+11,ravet,4.0,1644.0,135.0,urban space creator,urban skyline,yes,no,no,no,yes,yes,yes
+12,ravet,5.0,2220.0,188.0,urban space creator,urban skyline,yes,no,no,no,yes,yes,yes
+13,ravet,6.0,2220.0,188.0,urban space creator,urban skyline,yes,no,no,no,yes,yes,yes
+14,baner,2.0,753.5,58.0,vtp reality,vtp cierra,yes,no,no,no,yes,yes,yes
+15,baner,3.0,1051.0,95.0,vtp reality,vtp cierra,yes,no,no,no,yes,yes,yes
+16,mahalunge,1.0,423.0,40.0,vtp reality,vtp blue water,yes,no,no,no,yes,yes,yes
+17,mahalunge,2.0,665.0,58.0,vtp reality,vtp blue water,yes,no,no,no,yes,yes,yes
+18,mahalunge,3.0,878.5,78.0,vtp reality,vtp blue water,yes,no,no,no,yes,yes,yes
+19,ravet,1.0,462.0,36.0,waghvani constructions,om mangalam chaitanya,yes,no,no,no,yes,yes,yes
+20,ravet,2.0,666.0,48.0,waghvani constructions,om mangalam chaitanya,yes,no,no,no,yes,yes,yes
+21,ravet,2.0,750.0,57.0,sukwani associates,sukwani aspire,yes,no,no,no,yes,yes,yes
+22,ravet,3.0,1030.0,79.0,sukwani associates,sukwani aspire,yes,no,no,no,yes,yes,yes
+23,kharadi,1.0,446.0,37.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+24,kharadi,2.0,796.0,57.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+25,kharadi,2.0,842.0,59.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+26,kharadi,2.0,865.0,61.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+27,kharadi,2.0,902.0,63.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+28,kharadi,2.0,1154.0,79.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+29,kharadi,3.0,872.0,61.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+30,kharadi,3.0,934.0,65.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+31,kharadi,3.0,1088.0,73.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+32,kharadi,3.0,1109.0,76.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+33,kharadi,3.0,1163.0,80.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+34,kharadi,3.0,1419.0,96.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+35,kharadi,3.0,1485.0,100.0,mantra properties,mantra 29 gold,yes,no,no,no,yes,no,yes
+36,balewadi,2.0,684.0,70.0,mantra properties,mantra monarch,yes,no,no,no,yes,yes,yes
+37,balewadi,3.0,990.0,90.0,mantra properties,mantra monarch,yes,no,no,no,yes,yes,yes
+38,koregaon park,2.0,882.0,97.0,mantra properties,infinity,yes,no,no,no,yes,yes,yes
+39,koregaon park,3.0,1103.0,120.0,mantra properties,infinity,yes,no,no,no,yes,yes,yes
+40,keshav nagar,1.0,543.0,42.0,mantra properties,mantra insignia,yes,no,no,no,yes,yes,yes
+41,keshav nagar,2.0,963.0,57.0,mantra properties,mantra insignia,yes,no,no,no,yes,yes,yes
+43,kirkatwadi sinhagad road,1.0,320.0,14.0,mantra properties,7hills,yes,no,no,no,yes,yes,yes
+44,kirkatwadi sinhagad road,2.0,473.0,22.0,mantra properties,7hills,yes,no,no,no,yes,yes,yes
+45,kirkatwadi sinhagad road,3.0,581.0,26.0,mantra properties,7hills,yes,no,no,no,yes,yes,yes
+46,akurdi,2.0,790.0,80.0,mantra properties,mantra sky tower,yes,no,no,no,yes,yes,yes
+47,akurdi,2.0,820.0,83.0,mantra properties,mantra sky tower,yes,no,no,no,yes,yes,yes
+48,akurdi,3.0,989.0,101.0,mantra properties,mantra sky tower,yes,no,no,no,yes,yes,yes
+49,akurdi,3.0,1003.0,103.0,mantra properties,mantra sky tower,yes,no,no,no,yes,yes,yes
+50,akurdi,3.0,1182.0,128.0,mantra properties,mantra sky tower,yes,no,no,no,yes,yes,yes
+51,akurdi,5.0,1579.0,163.0,mantra properties,mantra sky tower,yes,no,no,no,yes,yes,yes
+53,tathawade,1.0,491.0,39.0,ravima ventures ,newton homes,no,no,no,no,yes,no,yes
+54,tathawade,2.0,659.0,51.0,ravima ventures ,newton homes,no,no,no,no,yes,no,yes
+55,tathawade,2.0,732.0,60.0,ravima ventures ,newton homes,no,no,no,no,yes,no,yes
+56,tathawade,3.0,809.0,66.0,ravima ventures ,newton homes,no,no,no,no,no,no,yes
+57,hadapsar,1.0,460.0,45.5,proviso group,lesiure town,no,no,no,no,yes,yes,yes
+58,hadapsar,2.0,734.0,72.5,proviso group,lesiure town,no,no,no,no,yes,yes,yes
+59,hadapsar,2.0,753.0,73.5,proviso group,lesiure town,no,no,no,no,yes,yes,yes
+60,hadapsar,2.0,675.0,62.0,ravima ventures ,newton homes,no,no,no,no,yes,no,no
+61,hadapsar,3.0,917.0,84.0,ravima ventures ,newton homes,no,no,no,no,yes,no,no
+62,kiwale,2.0,670.0,54.14,unique properties,k ville,yes,no,no,no,yes,yes,no
+63,kiwale,2.0,740.0,58.32,unique properties,k ville,yes,no,no,no,yes,yes,no
+64,kiwale,2.5,847.0,69.38,unique properties,k ville,yes,no,no,no,yes,yes,no
+65,kiwale,2.5,936.0,75.03,unique properties,k ville,yes,no,no,no,yes,yes,no
+66,kiwale,3.0,990.0,79.02,unique properties,k ville,yes,no,no,no,yes,yes,no
+67,kiwale,3.0,1032.0,82.1,unique properties,k ville,yes,no,no,no,yes,yes,no
+68,kayani nagar,3.0,1698.0,249.0,sagitarius ecospaces llp,bluegrass residences,yes,no,no,no ,yes,yes,yes
+69,kayani nagar,4.0,2267.0,460.0,sagitarius ecospaces llp,bluegrass residences,yes,no,no,no ,yes,yes,yes
+70,pisoli,2.0,670.0,45.75,nirman developers,brookefield willows,yes,no,no,no ,yes,yes,yes
+71,pisoli,2.0,725.0,49.34,nirman developers,brookefield willows,yes,no,no,no ,yes,yes,yes
+72,pisoli,2.0,731.0,49.74,nirman developers,brookefield willows,yes,no,no,no ,yes,yes,yes
+73,pisoli,2.0,744.0,50.56,nirman developers,brookefield willows,yes,no,no,no ,yes,yes,yes
+76,manjri ,1.0,446.0,36.0,jhala group,tranquility annexe,yes,no,no,no ,yes,yes,yes
+77,manjri ,2.0,670.0,55.0,jhala group,tranquility annexe,yes,no,no,no ,yes,yes,yes
+78,manjri ,2.5,792.0,65.5,jhala group,tranquility annexe,yes,no,no,no ,yes,yes,yes
+79,mahalunge,2.0,1180.0,68.0,jhala group,mahalunge riviera ,yes,no,no,no ,yes,yes,yes
+80,mahalunge,2.0,860.0,65.0,jhala group,mahalunge riviera ,yes,no,no,no ,yes,yes,yes
+81,mahalunge,3.0,988.0,92.0,jhala group,mahalunge riviera ,yes,no,no,no ,yes,yes,yes
+82,mahalunge,3.0,1093.0,92.0,jhala group,mahalunge riviera ,yes,no,no,no ,yes,yes,yes
+83,handewadi,1.0,456.0,33.5,jhala group,simplicity,yes,no,no,no ,yes,no,yes
+84,handewadi,2.0,644.0,47.3,jhala group,simplicity,yes,no,no,no ,yes,no,yes
+85,handewadi,2.5,785.0,55.22,jhala group,simplicity,yes,no,no,no ,yes,no,yes
+86,koregoan,3.0,1060.0,136.0,shroff developers ,aureta ,no,no,no,no ,yes,yes,yes
+88,mundhwa,2.0,664.0,47.59,unique properties,unique legacy royale,no,no,no,no ,yes,no,yes
+89,mundhwa,2.0,670.0,47.7,unique properties,unique legacy royale,no,no,no,no ,yes,no,yes
+90,mundhwa,2.0,673.0,47.8,unique properties,unique legacy royale,no,no,no,no ,yes,no,yes
+91,mundhwa,2.0,682.0,47.91,unique properties,unique legacy royale,no,no,no,no ,yes,no,yes
+92,mundhwa,2.0,698.0,48.02,unique properties,unique legacy royale,no,no,no,no ,yes,no,yes
+93,nibm,3.0,1239.0,161.0,kundan spaces,presidia ,yes,no,no,no ,yes,yes,yes
+94,nibm,3.0,1315.0,170.0,kundan spaces,presidia ,yes,no,no,no ,yes,yes,yes
+95,nibm,3.0,1388.0,178.0,kundan spaces,presidia ,yes,no,no,no ,yes,yes,yes
+96,nibm,3.0,1463.0,187.0,kundan spaces,presidia ,yes,no,no,no ,yes,yes,yes
+97,nibm,3.5,1671.0,211.0,kundan spaces,presidia ,yes,no,no,no ,yes,yes,yes
+98,nibm,3.5,1687.0,213.0,kundan spaces,presidia ,yes,no,no,no ,yes,yes,yes
+99,bt kawade rd,1.0,575.0,65.0,kundan spaces,eternia 2.0,yes,no,no,no ,yes,yes,yes
+100,bt kawade rd,2.0,751.0,84.0,kundan spaces,eternia 2.0,yes,no,no,no ,yes,yes,yes
+101,bt kawade rd,2.0,761.0,85.0,kundan spaces,eternia 2.0,yes,no,no,no ,yes,yes,yes
+102,bt kawade rd,2.0,871.0,96.0,kundan spaces,eternia 2.0,yes,no,no,no ,yes,yes,yes
+103,bt kawade rd,3.0,1166.0,129.0,kundan spaces,eternia 2.0,yes,no,no,no ,yes,yes,yes
+104,bt kawade rd,3.0,1206.0,133.0,kundan spaces,eternia 2.0,yes,no,no,no ,yes,yes,yes
+105,bt kawade rd,3.0,1272.0,139.0,kundan spaces,eternia 2.0,yes,no,no,no ,yes,yes,yes
+106,bt kawade rd,3.0,1279.0,140.0,kundan spaces,eternia 2.0,yes,no,no,no ,yes,yes,yes
+107,undri ,2.0,646.0,43.2,venkatesh bhoomi construction,bliss solitaire,no,no,no,no ,yes,no,no
+108,undri ,2.0,717.0,47.4,venkatesh bhoomi construction,bliss solitaire,no,no,no,no ,yes,no,no
+109,handewadi,1.0,436.0,30.58,lush life,impero,no,no,no,no ,yes,no,no
+110,handewadi,2.0,637.0,43.49,lush life,impero,no,no,no,no ,yes,no,no
+111,handewadi,2.0,642.0,43.83,lush life,impero,no,no,no,no ,yes,no,no
+112,handewadi,2.0,655.0,44.44,lush life,impero,no,no,no,no ,yes,no,no
+113,handewadi,2.0,668.0,45.52,lush life,impero,no,no,no,no ,yes,no,no
+114,handewadi,3.0,810.0,54.0,lush life,impero,no,no,no,no ,yes,no,no
+115,karvanagar ,2.0,735.0,111.0,maha anand pinnac associates ,river dale residency,no,no,no,no ,yes,no,yes
+116,karvanagar ,2.0,783.0,118.0,maha anand pinnac associates ,river dale residency,no,no,no,no ,yes,no,yes
+117,karvanagar ,2.0,805.0,121.0,maha anand pinnac associates ,river dale residency,no,no,no,no ,yes,no,yes
+118,karvanagar ,3.0,1074.0,162.0,maha anand pinnac associates ,river dale residency,no,no,no,no ,yes,no,yes
+119,karvanagar ,3.0,1111.0,167.0,maha anand pinnac associates ,river dale residency,no,no,no,no ,yes,no,yes
+120,nibm,1.0,535.0,36.0,vasupujya corporation,neco beaumont,yes,no,no,no ,yes,no,yes
+121,nibm,2.0,725.0,52.0,vasupujya corporation,neco beaumont,yes,no,no,no ,yes,no,yes
+122,magarpatta ,2.0,810.0,79.0,ace constructions ,anutham,yes,no,no,no ,yes,no,no
+123,magarpatta ,3.0,947.0,97.0,ace constructions ,anutham,yes,no,no,no ,yes,no,no
+124,hinjewadi ,2.0,697.0,68.06,shapoorji paloonji,sensorium ,yes,no,no,no ,yes,yes,yes
+125,hinjewadi ,2.0,711.0,68.41,shapoorji paloonji,sensorium ,yes,no,no,no ,yes,yes,yes
+126,hinjewadi ,2.0,792.0,78.0,shapoorji paloonji,sensorium ,yes,no,no,no ,yes,yes,yes
+127,hinjewadi ,3.0,980.0,98.87,shapoorji paloonji,sensorium ,yes,no,no,no ,yes,yes,yes
+128,hinjewadi ,4.0,1400.0,140.0,shapoorji paloonji,sensorium ,yes,no,no,no ,yes,yes,yes
+129,hinjewadi ,5.0,1772.0,177.0,shapoorji paloonji,sensorium ,yes,no,no,no ,yes,yes,yes
+130,hadapsar,2.0,732.0,68.8,wellwisher apartments ,kiarah terrazo,no,no,no,no ,yes,no,no
+131,hadapsar,2.0,751.0,68.8,wellwisher apartments ,kiarah terrazo,no,no,no,no ,yes,no,no
+132,hadapsar,5.0,1662.0,130.0,wellwisher apartments ,kiarah terrazo,no,no,no,no ,yes,no,no
+133,ravet ,2.0,705.0,48.0,dolphin group ,dolphin garima ,no,no,no,no ,no,no,yes
+134,ravet ,2.0,726.0,51.0,dolphin group ,dolphin garima ,no,no,no,no ,no,no,yes
+135,ravet ,2.0,809.0,56.0,dolphin group ,dolphin garima ,no,no,no,no ,no,no,yes
+136,vimannagar,2.0,734.0,95.0,oxy buildcorp,oxy beaumonde ,yes,no,no,no ,yes,yes,yes
+137,vimannagar,2.0,793.0,110.0,oxy buildcorp,oxy beaumonde ,yes,no,no,no ,yes,yes,yes
+138,vimannagar,2.0,904.0,118.0,oxy buildcorp,oxy beaumonde ,yes,no,no,no ,yes,yes,yes
+139,vimannagar,3.0,1154.0,146.0,oxy buildcorp,oxy beaumonde ,yes,no,no,no ,yes,yes,yes
+140,vimannagar,3.0,1168.0,147.0,oxy buildcorp,oxy beaumonde ,yes,no,no,no ,yes,yes,yes
+141,vimannagar,3.0,1189.0,149.0,oxy buildcorp,oxy beaumonde ,yes,no,no,no ,yes,yes,yes
+142,hinjewadi ,1.0,479.0,38.68,kohinoor group,sportsville ,no,no,no,no ,yes,yes,yes
+143,hinjewadi ,2.0,693.0,58.0,kohinoor group,sportsville ,no,no,no,no ,yes,yes,yes
+144,hinjewadi ,2.0,725.0,60.72,kohinoor group,sportsville ,no,no,no,no ,yes,yes,yes
+145,bt kawade rd,2.0,808.0,81.49,kohinoor group,presidenta ,no,no,no,no ,yes,yes,yes
+146,bt kawade rd,3.0,1086.0,108.0,kohinoor group,presidenta ,no,no,no,no,yes,yes,yes
+147,wadgaon sheri ,2.0,785.0,74.5,bhaktamar realities ,bhaktamar residency ,yes,no,no,no,yes,yes,yes
+148,wadgaon sheri ,2.0,844.0,80.59,bhaktamar realities ,bhaktamar residency ,yes,no,no,no,yes,yes,yes
+149,wadgaon sheri ,2.0,873.0,83.0,bhaktamar realities ,bhaktamar residency ,yes,no,no,no,yes,yes,yes
+150,susgaon ,2.0,606.0,47.25,porwal & anand develkoper,parklane urbanjoy ,yes,no,no,no,yes,yes,yes
+151,susgaon ,2.0,611.0,47.5,porwal & anand develkoper,parklane urbanjoy ,yes,no,no,no,yes,yes,yes
+152,susgaon ,2.0,626.0,48.43,porwal & anand develkoper,parklane urbanjoy ,yes,no,no,no,yes,yes,yes
+153,susgaon ,2.0,691.0,55.26,porwal & anand develkoper,parklane urbanjoy ,yes,no,no,no,yes,yes,yes
+154,susgaon ,3.0,835.0,66.0,porwal & anand develkoper,parklane urbanjoy ,yes,no,no,no,yes,yes,yes
+155,susgaon ,3.0,854.0,67.0,porwal & anand develkoper,parklane urbanjoy ,yes,no,no,no,yes,yes,yes
+156,mohammadwadi ,2.0,626.0,45.7,porwal  develkoper,khush vista,yes,no,no,no,yes,no,no
+157,mohammadwadi ,2.0,715.0,45.5,porwal  develkoper,khush vista,yes,no,no,no,yes,no,no
+158,dhanori ,2.0,692.5,59.0,keystone landmark ,oxy eterno,no,no,no,no,yes,no,no
+159,dhanori ,3.0,968.0,87.0,keystone landmark ,oxy eterno,no,no,no,no,yes,no,no
+160,dhanori ,3.0,996.0,89.0,keystone landmark ,oxy eterno,no,no,no,no,yes,no,no
+161,dhanori ,3.0,1038.0,92.0,keystone landmark ,oxy eterno,no,no,no,no,yes,no,no
+162,bavdhan budruk ,1.0,489.0,43.8,puraniks,abitante fiore,yes,no,no,no,yes,yes,yes
+163,bavdhan budruk ,2.0,598.0,55.3,puraniks,abitante fiore,yes,no,no,no,yes,yes,yes
+164,bavdhan budruk ,2.0,616.0,56.5,puraniks,abitante fiore,yes,no,no,no,yes,yes,yes
+165,bavdhan budruk ,2.0,692.0,62.3,puraniks,abitante fiore,yes,no,no,no,yes,yes,yes
+166,bavdhan budruk ,3.0,867.0,79.3,puraniks,abitante fiore,yes,no,no,no,yes,yes,yes
+167,bavdhan budruk ,3.0,908.0,82.5,puraniks,abitante fiore,yes,no,no,no,yes,yes,yes
+168,lonavala,3.0,1624.0,159.0,puraniks,puraniks sayama,yes,no,no,no,yes,yes,yes
+169,lonavala,4.0,2043.0,215.0,puraniks,puraniks sayama,yes,no,no,no,yes,yes,yes
+170,handewadi,2.0,727.0,45.74,majestique landmarks ,rhythm county ,no,no,no,no,yes,yes,no
+171,handewadi,3.0,923.0,58.95,majestique landmarks ,rhythm county ,no,no,no,no,yes,yes,no
+172,manjri ,2.0,731.5,59.0,kalpataru,kalpataru serenity,yes,no,no,no,yes,yes,yes
+173,manjri ,3.0,1073.5,109.0,kalpataru,kalpataru serenity,yes,no,no,no,yes,yes,yes
+174,kharadi,2.0,408.0,39.99,vijaya laxmi creations,satyam shivam,yes,no,no,no,yes,no,yes
+175,kharadi,2.0,546.0,53.99,vijaya laxmi creations,satyam shivam,yes,no,no,no,yes,no,yes
+176,kharadi,2.0,629.0,59.99,vijaya laxmi creations,satyam shivam,yes,no,no,no,yes,no,yes
+177,wadgaon sheri ,1.0,378.0,33.0,vijaya laxmi creations,satyam serenity,yes,no,no,no,yes,no,yes
+178,wadgaon sheri ,1.0,494.0,47.0,vijaya laxmi creations,satyam serenity,yes,no,no,no,yes,no,yes
+179,wadgaon sheri ,2.0,780.0,70.0,vijaya laxmi creations,satyam serenity,yes,no,no,no,yes,no,yes
+180,wadgaon sheri ,2.0,850.0,73.0,vijaya laxmi creations,satyam serenity,yes,no,no,no,yes,no,yes
+181,wadgaon sheri ,2.0,900.0,78.0,vijaya laxmi creations,satyam serenity,yes,no,no,no,yes,no,yes
+182,wadgaon sheri ,2.0,930.0,83.0,vijaya laxmi creations,satyam serenity,yes,no,no,no,yes,no,yes
+183,baner,3.0,1272.5,175.0,kalpataru,jade residences ,no ,no,no,no,yes,yes,no
+184,baner,3.5,1740.0,250.0,kalpataru,jade residences ,no ,no,no,no,yes,yes,no
+185,baner,4.5,2447.0,420.0,kalpataru,jade residences ,no ,no,no,no,yes,yes,no
+186,bavdhan,1.0,405.0,39.49,vijaya laxmi infrarealtors,satyam shery,yes,no,no,no,yes,no ,no 
+187,bavdhan,1.0,408.0,39.49,vijaya laxmi infrarealtors,satyam shery,yes,no,no,no,yes,no ,no 
+188,bavdhan,1.0,392.0,39.49,vijaya laxmi infrarealtors,satyam shery,yes,no,no,no,yes,no ,no 
+189,bavdhan,2.0,667.0,64.99,vijaya laxmi infrarealtors,satyam shery,yes,no,no,no,yes,no ,no 
+190,bavdhan,2.0,641.0,64.99,vijaya laxmi infrarealtors,satyam shery,yes,no,no,no,yes,no ,no 
+191,bavdhan,2.0,665.0,64.99,vijaya laxmi infrarealtors,satyam shery,yes,no,no,no,yes,no ,no 
+192,talegoan ,1.0,280.0,13.19,calyx spaces,atulya kanhe,yes,no,no,no,yes,yes,yes
+193,talegoan ,2.0,385.0,17.29,calyx spaces,atulya kanhe,yes,no,no,no,yes,no,yes
+194,baner,2.0,730.0,87.0,supreme,supreme estia,yes,no,no,no,yes,yes,yes
+195,baner,3.0,1135.0,129.0,supreme,supreme estia,yes,no,no,no,yes,yes,yes
+196,baner,3.0,1350.0,160.0,supreme,supreme estia,yes,no,no,no,yes,yes,yes
+197,baner,4.0,1600.0,230.0,supreme,supreme estia,yes,no,no,no,yes,yes,yes
+198,baner,2.0,789.0,95.0,tejraaj group,tej elevia,no,no,no,no,yes,yes,yes
+199,baner,3.0,1107.0,135.0,tejraaj group,tej elevia,no,no,no,no,yes,yes,yes
+200,baner,2.0,776.0,90.68,vtp reality,vtp solitaire ,yes,no,no,no,yes,yes,yes

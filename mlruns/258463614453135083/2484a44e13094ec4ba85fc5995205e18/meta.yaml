@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/2484a44e13094ec4ba85fc5995205e18/artifacts
+end_time: 1725922899768
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 2484a44e13094ec4ba85fc5995205e18
+run_name: monumental-stork-988
+run_uuid: 2484a44e13094ec4ba85fc5995205e18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725922897611
+status: 3
+tags: []
+user_id: anucv

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/b83ce730c76343d9844a8faa372f861b/artifacts
+end_time: 1725923248376
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: b83ce730c76343d9844a8faa372f861b
+run_name: polite-cub-714
+run_uuid: b83ce730c76343d9844a8faa372f861b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725923245845
+status: 3
+tags: []
+user_id: anucv

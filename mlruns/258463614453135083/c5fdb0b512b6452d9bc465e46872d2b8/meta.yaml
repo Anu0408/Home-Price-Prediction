@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/c5fdb0b512b6452d9bc465e46872d2b8/artifacts
+end_time: 1725914422016
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: c5fdb0b512b6452d9bc465e46872d2b8
+run_name: victorious-frog-277
+run_uuid: c5fdb0b512b6452d9bc465e46872d2b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725914419267
+status: 3
+tags: []
+user_id: anucv

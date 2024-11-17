@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/48e9ffd8157d4880ac99c922b0a8f37c/artifacts
+end_time: 1726007174688
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 48e9ffd8157d4880ac99c922b0a8f37c
+run_name: unequaled-gull-117
+run_uuid: 48e9ffd8157d4880ac99c922b0a8f37c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726007172076
+status: 3
+tags: []
+user_id: anucv

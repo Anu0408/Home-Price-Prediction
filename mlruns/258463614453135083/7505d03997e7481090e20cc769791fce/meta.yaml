@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/7505d03997e7481090e20cc769791fce/artifacts
+end_time: 1725923036319
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 7505d03997e7481090e20cc769791fce
+run_name: placid-pug-310
+run_uuid: 7505d03997e7481090e20cc769791fce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725923034177
+status: 3
+tags: []
+user_id: anucv

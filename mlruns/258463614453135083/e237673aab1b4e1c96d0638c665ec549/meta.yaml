@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/e237673aab1b4e1c96d0638c665ec549/artifacts
+end_time: 1725914430818
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: e237673aab1b4e1c96d0638c665ec549
+run_name: welcoming-stoat-747
+run_uuid: e237673aab1b4e1c96d0638c665ec549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725914429134
+status: 3
+tags: []
+user_id: anucv

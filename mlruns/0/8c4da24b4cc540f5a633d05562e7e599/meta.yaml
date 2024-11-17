@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/0/8c4da24b4cc540f5a633d05562e7e599/artifacts
+end_time: 1725910878430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c4da24b4cc540f5a633d05562e7e599
+run_name: debonair-rook-388
+run_uuid: 8c4da24b4cc540f5a633d05562e7e599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725910871970
+status: 3
+tags: []
+user_id: anucv

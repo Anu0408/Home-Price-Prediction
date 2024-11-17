@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/3d1f86cf7e0246238f796b48a7c343fc/artifacts
+end_time: 1725923135726
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 3d1f86cf7e0246238f796b48a7c343fc
+run_name: bustling-grub-676
+run_uuid: 3d1f86cf7e0246238f796b48a7c343fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725923133484
+status: 3
+tags: []
+user_id: anucv

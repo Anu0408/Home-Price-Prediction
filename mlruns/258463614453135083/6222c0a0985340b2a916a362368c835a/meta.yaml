@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/6222c0a0985340b2a916a362368c835a/artifacts
+end_time: 1725922642096
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 6222c0a0985340b2a916a362368c835a
+run_name: mysterious-cub-206
+run_uuid: 6222c0a0985340b2a916a362368c835a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725922639326
+status: 3
+tags: []
+user_id: anucv

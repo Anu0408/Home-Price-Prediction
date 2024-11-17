@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/29e383d19d044216bdd2c0e7d0bb609f/artifacts
+end_time: 1726007509632
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 29e383d19d044216bdd2c0e7d0bb609f
+run_name: nebulous-ant-906
+run_uuid: 29e383d19d044216bdd2c0e7d0bb609f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726007506926
+status: 3
+tags: []
+user_id: anucv

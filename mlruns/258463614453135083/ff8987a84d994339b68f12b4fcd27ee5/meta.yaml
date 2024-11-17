@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/ff8987a84d994339b68f12b4fcd27ee5/artifacts
+end_time: 1725917105797
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: ff8987a84d994339b68f12b4fcd27ee5
+run_name: calm-cub-102
+run_uuid: ff8987a84d994339b68f12b4fcd27ee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725917103671
+status: 3
+tags: []
+user_id: anucv

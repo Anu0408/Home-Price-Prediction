@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/9f05cedcdc4d4708ad6a64a333535fdb/artifacts
+end_time: 1725922876709
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 9f05cedcdc4d4708ad6a64a333535fdb
+run_name: whimsical-turtle-751
+run_uuid: 9f05cedcdc4d4708ad6a64a333535fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725922874596
+status: 3
+tags: []
+user_id: anucv

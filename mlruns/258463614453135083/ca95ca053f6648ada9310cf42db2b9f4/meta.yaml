@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/ca95ca053f6648ada9310cf42db2b9f4/artifacts
+end_time: 1726007504721
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: ca95ca053f6648ada9310cf42db2b9f4
+run_name: bemused-ram-441
+run_uuid: ca95ca053f6648ada9310cf42db2b9f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726007500556
+status: 3
+tags: []
+user_id: anucv

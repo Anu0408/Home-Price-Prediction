@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/5d2e0244639042eb86614334f7ba4f53/artifacts
+end_time: 1726009426550
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 5d2e0244639042eb86614334f7ba4f53
+run_name: caring-shrew-206
+run_uuid: 5d2e0244639042eb86614334f7ba4f53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726009423595
+status: 3
+tags: []
+user_id: anucv

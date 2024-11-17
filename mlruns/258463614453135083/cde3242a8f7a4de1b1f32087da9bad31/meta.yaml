@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/cde3242a8f7a4de1b1f32087da9bad31/artifacts
+end_time: 1726008847002
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: cde3242a8f7a4de1b1f32087da9bad31
+run_name: unequaled-quail-346
+run_uuid: cde3242a8f7a4de1b1f32087da9bad31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726008844726
+status: 3
+tags: []
+user_id: anucv

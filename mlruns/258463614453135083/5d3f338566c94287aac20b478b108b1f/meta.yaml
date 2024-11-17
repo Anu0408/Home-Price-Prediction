@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/5d3f338566c94287aac20b478b108b1f/artifacts
+end_time: 1725923056400
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 5d3f338566c94287aac20b478b108b1f
+run_name: skittish-stag-635
+run_uuid: 5d3f338566c94287aac20b478b108b1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725923053868
+status: 3
+tags: []
+user_id: anucv

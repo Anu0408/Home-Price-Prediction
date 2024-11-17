@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/4e49641ea0dd4c5e94c7ff1e15d17446/artifacts
+end_time: 1725922896626
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 4e49641ea0dd4c5e94c7ff1e15d17446
+run_name: redolent-moth-867
+run_uuid: 4e49641ea0dd4c5e94c7ff1e15d17446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725922894163
+status: 3
+tags: []
+user_id: anucv

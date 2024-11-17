@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/ea5a2501393341638d7630f9d013e0c6/artifacts
+end_time: 1725922614588
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: ea5a2501393341638d7630f9d013e0c6
+run_name: bold-ant-327
+run_uuid: ea5a2501393341638d7630f9d013e0c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725922612039
+status: 3
+tags: []
+user_id: anucv

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anucv/OneDrive/Desktop/AI%20and%20ML%20training/HomePrice/mlruns/258463614453135083/934ee664a08942c8931d9462c4a5c873/artifacts
+end_time: 1725922768672
+entry_point_name: ''
+experiment_id: '258463614453135083'
+lifecycle_stage: active
+run_id: 934ee664a08942c8931d9462c4a5c873
+run_name: aged-bear-30
+run_uuid: 934ee664a08942c8931d9462c4a5c873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725922766559
+status: 3
+tags: []
+user_id: anucv

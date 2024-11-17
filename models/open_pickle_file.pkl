@@ -1,0 +1,11 @@
+import pickle
+
+# Provide the full path to the .pkl file
+file_path = r'C:\Users\anucv\OneDrive\Desktop\AI and ML training\HomePrice\models\reg_model.pkl'
+
+# Open and load the .pkl file
+with open(file_path, 'rb') as file:
+    data = pickle.load(file)
+
+# Now 'data' contains the object saved in the file
+print(data)
