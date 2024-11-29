@@ -16,11 +16,6 @@
 # How to run?
 ### STEPS:
 
-Clone the repository
-
-```bash
-https://github.com/sekhar4ml/Home-Price-Prediction.git
-```
 
 ### STEP 01 - Create a conda environment after opening the repository
 
