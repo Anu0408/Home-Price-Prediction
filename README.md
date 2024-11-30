@@ -97,7 +97,7 @@ This project is a **real-time, end-to-end machine learning application** that pr
 - Access the application at http://localhost:8080.
 
 ### Usage
-- ### **1. Predict Property Price**
+### **1. Predict Property Price**
 Open the web app in your browser.
 Fill out the form with details such as:
    - Property area
@@ -105,12 +105,12 @@ Fill out the form with details such as:
    - Number of bedrooms
    - Available amenities (e.g., pool, park, gym, etc.)
    - Submit the form to get the predicted house price instantly.
-- ### **2. Retrain the Model**
+### **2. Retrain the Model**
 To retrain the model:
 Navigate to the /train route in your browser:
 http://localhost:8080/train
 This will trigger the training pipeline and update the model, with experiments tracked in MLflow.
-- ### **3. Track Experiments with MLflow**
+### **3. Track Experiments with MLflow**
 Access the MLflow UI at http://localhost:5000 to monitor training experiments.
 View metrics, parameters, and models.
 Compare experiments to evaluate model performance.
