@@ -83,12 +83,12 @@ This project is a **real-time, end-to-end machine learning application** that pr
 ### **1. Clone the Repository**
 - git clone https://github.com/your-username/HousePricePrediction.git
 - cd HomePricePrediction
-- create a virtual environment
+- `create a virtual environment`
 ### 2. Install Dependencies**
-- Install all required Python packages using pip: pip install -r requirements.txt
+- Install all required Python packages using pip: `pip install -r requirements.txt`
 ### **3. Set Up MLflow**
-- Start the MLflow tracking server (if using local server): mlflow ui
-- Access the MLflow UI at http://localhost:5000.
+- Start the MLflow tracking server (if using local server): `mlflow ui`
+- Access the MLflow UI at `http://localhost:5000`.
 - Configure a remote tracking server by setting the MLFLOW_TRACKING_URI environment variable: export MLFLOW_TRACKING_URI="http://your-remote-server"
 - [Documentation](https://mlflow.org/docs/latest/index.html)
 - [dagshub](https://dagshub.com/)
@@ -107,15 +107,14 @@ Fill out the form with details such as:
    - Submit the form to get the predicted house price instantly.
 ### **2. Retrain the Model**
 To retrain the model:
-Navigate to the /train route in your browser:
-http://localhost:8080/train
+Navigate to the /train route in your browser: `http://localhost:8080/train`
 This will trigger the training pipeline and update the model, with experiments tracked in MLflow.
 ### **3. Track Experiments with MLflow**
 Access the MLflow UI at http://localhost:5000 to monitor training experiments.
 View metrics, parameters, and models.
 Compare experiments to evaluate model performance.
 
-
+---
 
 ### Future Improvements
 - Enhanced Model Accuracy: Incorporate more sophisticated machine learning models and fine-tune hyperparameters further.
