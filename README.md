@@ -51,45 +51,28 @@ This project is a **real-time, end-to-end machine learning application** that pr
 
 ---
 
-## **Project Structure**
-
-
-
-
-
-
-
-
 ## **Setup Instructions**
 
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/yourusername/HousePricePrediction.git
 cd HousePricePrediction
-2. Install Dependencies
+
+### **2. Install Dependencies**
+```bash
 Install all required Python packages using pip:
-
-bash
-Copy code
+```bash
 pip install -r requirements.txt
-3. Set Up MLflow
+### **3. Set Up MLflow**
+```bash
 Start the MLflow tracking server (if using local server):
-
-bash
-Copy code
 mlflow ui
 Access the MLflow UI at http://localhost:5000.
 
 Optional: Configure a remote tracking server by setting the MLFLOW_TRACKING_URI environment variable:
-
-bash
-Copy code
 export MLFLOW_TRACKING_URI="http://your-remote-server"
 4. Run the Application
 Start the Flask application:
-
-bash
-Copy code
 python app.py
 Access the application at http://localhost:8080.
 
