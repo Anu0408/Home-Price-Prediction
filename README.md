@@ -54,7 +54,7 @@ This project is a **real-time, end-to-end machine learning application** that pr
 ## **Setup Instructions**
 
 ### **1. Clone the Repository**
-- git clone https://github.com/yourusername/HousePricePrediction.git
+- git clone https://github.com/anu0408/HousePricePrediction.git
 - cd HousePricePrediction
 ### 2. Install Dependencies**
 - Install all required Python packages using pip:
@@ -70,74 +70,32 @@ This project is a **real-time, end-to-end machine learning application** that pr
 - python app.py
 - Access the application at http://localhost:8080.
 
-Usage
-1. Predict Property Price
+### Usage
+**1. Predict Property Price**
 Open the web app in your browser.
 Fill out the form with details such as:
-Property area
-Price per square foot
-Number of bedrooms
-Available amenities (e.g., pool, park, gym, etc.)
-Submit the form to get the predicted house price instantly.
-2. Retrain the Model
+   - Property area
+    - Price per square foot
+   - Number of bedrooms
+   - Available amenities (e.g., pool, park, gym, etc.)
+   - Submit the form to get the predicted house price instantly.
+**2. Retrain the Model**
 To retrain the model:
-
 Navigate to the /train route in your browser:
-bash
-Copy code
 http://localhost:8080/train
 This will trigger the training pipeline and update the model, with experiments tracked in MLflow.
-
-3. Track Experiments with MLflow
+**3. Track Experiments with MLflow**
 Access the MLflow UI at http://localhost:5000 to monitor training experiments.
 View metrics, parameters, and models.
 Compare experiments to evaluate model performance.
-Technical Details
-Real-Time End-to-End Machine Learning Pipeline
-Data Preprocessing:
 
-Includes normalization of numerical features and encoding categorical variables.
-Cleans and prepares the data for model training.
-Model Training:
 
-Models include Random Forest, Gradient Boosting, and ElasticNet regression.
-Hyperparameter tuning via GridSearchCV for optimizing model performance.
-Prediction Pipeline:
 
-Takes user input via the web interface and returns predicted property prices based on the trained model.
-MLflow Integration
-Experiment Tracking:
-
-Logs parameters, metrics (e.g., R², MSE), and artifacts during model training.
-Facilitates comparison between different models and configurations.
-Model Versioning:
-
-Allows users to track and compare multiple versions of the model in the MLflow registry.
-Model Deployment:
-
-MLflow makes it easy to transition from experimentation to production-ready models.
-Frontend (Web Interface)
-HTML Templates:
-
-index.html: Renders input form for property details.
-results.html: Displays predictions based on user input.
-Dynamic Routing:
-
-/predict: Handles POST requests, processes user input, and displays the prediction.
-/train: Triggers the retraining of the model and logs new experiments.
-Future Improvements
-Enhanced Model Accuracy:
-
-Incorporate more sophisticated machine learning models and fine-tune hyperparameters further.
-MLflow Automation:
-
-Use MLflow's deployment capabilities for seamless model deployment to production environments.
-Database Integration:
-
-Add support for persistent data storage using relational or NoSQL databases.
-Cloud Deployment:
-
-Host the application and MLflow on cloud services such as AWS, GCP, or Azure.
+### Future Improvements
+- Enhanced Model Accuracy: Incorporate more sophisticated machine learning models and fine-tune hyperparameters further.
+- MLflow Automation: Use MLflow's deployment capabilities for seamless model deployment to production environments.
+- Database Integration: Add support for persistent data storage using relational or NoSQL databases.
+- Cloud Deployment: Host the application and MLflow on cloud services such as AWS, GCP, or Azure.
 
 
 
