@@ -81,7 +81,7 @@ This project is a **real-time, end-to-end machine learning application** that pr
 ## **Setup Instructions**
 
 ### **1. Clone the Repository**
-- git clone https://github.com/anu0408/HousePricePrediction.git
+- git clone https://github.com/Anu0408/HousePricePrediction.git
 - cd HousePricePrediction
 ### 2. Install Dependencies**
 - Install all required Python packages using pip:
