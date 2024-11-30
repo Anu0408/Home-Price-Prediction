@@ -1,4 +1,4 @@
-# **Home Price Prediction Maching Learning Application**
+# **House Price Prediction Maching Learning Application**
 
 A real-time, end-to-end machine learning application built with Flask and integrated with MLflow for tracking and model management. The application predicts house prices based on user input, leveraging trained regression models and providing a web interface for seamless interaction.
 
@@ -18,7 +18,7 @@ This project is a **real-time, end-to-end machine learning application** that pr
 
 ## **Features**
 
-1. **Real-Time Home Price Prediction**:
+1. **Real-Time house Price Prediction**:
    - Input property features (e.g., area, number of bedrooms, amenities) and get instant predictions.
    
 2. **End-to-End Machine Learning Pipeline**:
@@ -81,8 +81,8 @@ This project is a **real-time, end-to-end machine learning application** that pr
 ## **Setup Instructions**
 
 ### **1. Clone the Repository**
-- git clone https://github.com/your-username/HomePricePrediction.git
-- cd HomePricePrediction
+- git clone https://github.com/your-username/housePricePrediction.git
+- cd housePricePrediction
 - `create a virtual environment`
 ### 2. Install Dependencies**
 - Install all required Python packages using pip: `pip install -r requirements.txt`
