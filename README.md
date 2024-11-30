@@ -1,4 +1,4 @@
-# **House Price Prediction Web Application**
+# **Home Price Prediction Maching Learning Application**
 
 A real-time, end-to-end machine learning application built with Flask and integrated with MLflow for tracking and model management. The application predicts house prices based on user input, leveraging trained regression models and providing a web interface for seamless interaction.
 
