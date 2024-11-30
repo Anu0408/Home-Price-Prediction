@@ -18,7 +18,7 @@ This project is a **real-time, end-to-end machine learning application** that pr
 
 ## **Features**
 
-1. **Real-Time House Price Prediction**:
+1. **Real-Time Home Price Prediction**:
    - Input property features (e.g., area, number of bedrooms, amenities) and get instant predictions.
    
 2. **End-to-End Machine Learning Pipeline**:
@@ -81,7 +81,7 @@ This project is a **real-time, end-to-end machine learning application** that pr
 ## **Setup Instructions**
 
 ### **1. Clone the Repository**
-- git clone https://github.com/your-username/HousePricePrediction.git
+- git clone https://github.com/your-username/HomePricePrediction.git
 - cd HomePricePrediction
 - `create a virtual environment`
 ### 2. Install Dependencies**
