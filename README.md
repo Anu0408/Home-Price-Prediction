@@ -93,8 +93,8 @@ This project is a **real-time, end-to-end machine learning application** that pr
 - [Documentation](https://mlflow.org/docs/latest/index.html)
 - [dagshub](https://dagshub.com/)
 ### **4. Run the Application**
-- Start the Flask application: python app.py
-- Access the application at http://localhost:8080.
+- Start the Flask application: `python app.py`
+- Access the application at `http://localhost:8080`.
 
 ### Usage
 ### **1. Predict Property Price**
