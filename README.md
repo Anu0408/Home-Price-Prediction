@@ -84,7 +84,7 @@ This project is a **real-time, end-to-end machine learning application** that pr
 - git clone https://github.com/your-username/housePricePrediction.git
 - cd housePricePrediction
 - `create a virtual environment`
-### 2. Install Dependencies**
+### **2. Install Dependencies**
 - Install all required Python packages using pip: `pip install -r requirements.txt`
 ### **3. Set Up MLflow**
 - Start the MLflow tracking server (if using local server): `mlflow ui`
