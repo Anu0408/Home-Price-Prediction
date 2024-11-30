@@ -51,6 +51,31 @@ This project is a **real-time, end-to-end machine learning application** that pr
 
 ---
 
+## **Real-Time End-to-End Machine Learning Pipeline**
+**Data Preprocessing:**
+- Includes normalization of numerical features and encoding categorical variables.
+- Cleans and prepares the data for model training.
+**Model Training:**
+- Models include Random Forest, Gradient Boosting, and ElasticNet regression.
+- Hyperparameter tuning via GridSearchCV for optimizing model performance.
+**Prediction Pipeline:**
+- Takes user input via the web interface and returns predicted property prices based on the trained model.
+- MLflow Integration
+**Experiment Tracking:**
+- Logs parameters, metrics (e.g., R², MSE), and artifacts during model training.
+- Facilitates comparison between different models and configurations.
+**Model Versioning:**
+- Allows users to track and compare multiple versions of the model in the MLflow registry.
+**Model Deployment:**
+- MLflow makes it easy to transition from experimentation to production-ready models.
+- Frontend (Web Interface)
+**HTML Templates:**
+- index.html: Renders input form for property details.
+- results.html: Displays predictions based on user input.
+**Dynamic Routing:**
+- /predict: Handles POST requests, processes user input, and displays the prediction.
+- /train: Triggers the retraining of the model and logs new experiments.
+
 ## **Setup Instructions**
 
 ### **1. Clone the Repository**
