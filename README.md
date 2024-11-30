@@ -76,6 +76,8 @@ This project is a **real-time, end-to-end machine learning application** that pr
 - /predict: Handles POST requests, processes user input, and displays the prediction.
 - /train: Triggers the retraining of the model and logs new experiments.
 
+---
+
 ## **Setup Instructions**
 
 ### **1. Clone the Repository**
